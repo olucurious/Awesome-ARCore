@@ -19,6 +19,7 @@ ARCore is a platform for building augmented reality apps on Android. ARCore uses
 # Projects
 
 * [Portal Painter](https://github.com/googlecreativelab/arexperiments-portal-painter) - Doodle new worlds onto your own
+* [ARCore for All](https://github.com/tomthecarrot/arcore-for-all) - Google ARCore for "unsupported" Android devices
 
 
 # Articles

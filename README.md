@@ -22,9 +22,14 @@ ARCore is a platform for building augmented reality apps on Android. ARCore uses
 * [ARCore for All](https://github.com/tomthecarrot/arcore-for-all) - Google ARCore for "unsupported" Android devices
 * [Sceneform Android SDK](https://github.com/google-ar/sceneform-android-sdk) - Google Sceneform to convert models (obj, fbx and glTF) to the Sceneform format.
 * [Google ARCore Asset Converter](https://github.com/necrostylery/google-ar-asset-converter) - Raw binaries to convert models (obj, fbx and glTF) to Sceneform format. 
+* [Google Codelabs - ARCore Cloud Anchors](https://codelabs.developers.google.com/codelabs/arcore-cloud-anchors/) - This codelab guides you through modifying a pre-existing ARCore app to use the Cloud Anchors APIs, and demonstrates how you can create a shared AR experience.
+* [ARCore Android SDK Samples](https://github.com/google-ar/arcore-android-sdk/tree/master/samples) - Collection of sample projects from Google using ARCore
+* [HelloAR Sample App Code](https://developers.google.com/ar/develop/unity/tutorials/hello-ar-sample) - Dive into the ARCore SDK for Unity sample app code to learn how SDK components work in an AR scene.
+
+
 
 # Articles
-
+* [ARCore Cheat sheet Article](https://www.techrepublic.com/article/googles-arcore-an-sdk-for-augmented-reality-developers-cheat-sheet/) - A cheat sheet that ..."covers everything developers and IT leaders need to understand and use ARCore."
 
 
 # Resources

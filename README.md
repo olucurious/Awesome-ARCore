@@ -30,11 +30,12 @@ ARCore is a platform for building augmented reality apps on Android. ARCore uses
 # Google Play
 
 * [AR Toolbox](https://play.google.com/store/apps/details?id=fr.smarquis.ar_toolbox) - ARCore multiple sample usage with Sceneform within an app
+* [AR Environment Lights](https://play.google.com/store/apps/details?id=com.gorisse.thomas.ar.environmentlights) - Display 3D models on AR and change the detected lights intensities
 
 
 # Articles
 
-
+* [Make an Android AR app in 2022](https://medium.com/make-an-android-ar-augmented-reality-app-for/make-an-ar-augmented-reality-app-for-android-in-2022-48a1711562bb)
 
 # Resources
 

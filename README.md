@@ -34,7 +34,7 @@ ARCore is a platform for building augmented reality apps on Android. ARCore uses
 
 # Articles
 
-
+* [Make an Android AR app in 2022](https://medium.com/make-an-android-ar-augmented-reality-app-for/make-an-ar-augmented-reality-app-for-android-in-2022-48a1711562bb)
 
 # Resources
 
